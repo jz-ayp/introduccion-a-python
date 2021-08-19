@@ -1,2 +1,2 @@
-# introduccion-a-python
-Algoritmos y Programación - Práctica 1
+# Algoritmos y Programación
+## Práctica 1 - Introducción a Python
